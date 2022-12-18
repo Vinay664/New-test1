@@ -1,0 +1,61 @@
+body{
+    background-image: linear-gradient(rgb(227, 22, 22), rgb(248, 10, 10)), url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png'),
+    height="100vh";
+    background-color:orange;
+}
+.forget{
+    cursor: pointer;
+}
+.m-0{
+    cursor: pointer;
+}
+.fb{
+    cursor: pointer;
+}
+
+.login-top{
+    width: 100vw;
+    height: 70px;
+    background-color: rgba(248, 245, 245, 0.936);
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.login-top img{
+    width: 100px;
+    height:100px;
+}
+h1{
+    text-align:center;
+    padding-top:120px;
+    font-style:italic;
+    color:navy;
+    font-size:50px;
+
+}
+.login-box{
+    background-color: violet;
+    width: 430px;
+    height: 450px;
+    border-radius: 5px;
+    padding: 50px;
+}
+
+.small-text{
+    font-size: 13px;
+}
+
+.form-control{
+    box-shadow: none !important;
+}
+.meta{
+    width:0px;
+    height:0px;
+
+}
+.div1{
+    height:50px;
+    width:50px;
+}
+
